@@ -22,5 +22,4 @@ This app also shows current date and updates time every seconds.
 ![Interface CoWin App 3](https://user-images.githubusercontent.com/65466736/196215313-c2db8f2f-7ffe-49b3-91ec-c9fa6ce9f6a9.png)
 
 
-
-![Interface CoWin App 3](https://user-images.githubusercontent.com/65466736/196215399-b88c6360-ee60-4e3f-9a76-c8d042b0e9b8.png)
+![Interface CoWin App 2](https://user-images.githubusercontent.com/65466736/196215555-3c0ab9a4-4425-40c9-9965-888d02e00e37.png)
